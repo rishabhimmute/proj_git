@@ -1,3 +1,5 @@
 hi chandu
 git log --oneline
 sudo apt install update -y
+git log 
+git add my name
