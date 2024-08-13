@@ -1,1 +1,2 @@
 hi chandu
+sudo apt install ubuntu
