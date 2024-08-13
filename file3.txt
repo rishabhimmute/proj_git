@@ -6,3 +6,5 @@ git add my name
 git commit -a -m 
 git diff <filename> #to check files at working directory
 git diff --staged <filename> #to check changes at staging area
+git 
+git done
