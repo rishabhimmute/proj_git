@@ -3,3 +3,4 @@ git log --oneline
 sudo apt install update -y
 git log 
 git add my name
+git commit -a -m 
