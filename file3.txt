@@ -1,2 +1,3 @@
 hi chandu
-sudo apt install ubuntu
+git log --oneline
+sudo apt install update -y
