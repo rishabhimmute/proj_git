@@ -1,9 +1,43 @@
-hi chandu
-git log --oneline
-sudo apt install update -y
-git log 
-git add my name
-git commit -a -m 
-git diff <filename> #to check files at working directory
-git diff --staged <filename> #to check changes at staging area
+how to rename colums
+rename
 
+how to hide db colums
+set unused
+
+how to drop unused colums?
+drop
+
+purge  :
+========== it has to remove the given object from recycle bin
+
+flaskback :it will restore dropping objects 
+
+DML :
+=============
+insert  :
+--------------
+it has to insert new Records into table or views ex.....
+
+there are 3 types 
+====================
+
+1)insert into emp vlaues('kamal',18000,12-Aug-2024)
+2)insert into emp(ename,esal,doj)
+
+update: it has to update existing from and table and it will update more than one column 
+-------------
+delete :
+it has to delete the given form table or views  ex....
+
+insertALL:
+-------------
+it has to insert more than one record
+
+merge :
+---------------it has to different operations if the commands if the condition is true 
+just like insert or update or delete ,select ex.........
+
+tcl commands :
+=====================
+commit -->the given records it will store into cache memory 
+rollback--> it has to perform undo 
